@@ -111,14 +111,6 @@ npm install
 npm run dev
 ```
 
-## 👥 Tim
-
-| Nama | NIM |
-|---|---|
-| Muhammad Naufal Firdaus | 1103220083 |
-| Zarvin Heruwin | 1103223120 |
-| Alfikri | 1103223015 |
-
 **Dosen Pembimbing:** Dr. Meta Kallista, S.Si., M.Si. · Dr. Ig. Prasetya Dwi Wibawa, S.T., M.T.
 
 ## 📄 Status
