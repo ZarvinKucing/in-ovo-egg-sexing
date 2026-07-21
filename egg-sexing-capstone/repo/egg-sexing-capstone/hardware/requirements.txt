@@ -1,0 +1,8 @@
+RPi.GPIO
+hx711
+firebase-admin
+pytz
+opencv-python
+numpy
+scikit-image
+joblib
