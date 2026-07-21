@@ -1,7 +1,0 @@
-pandas
-numpy
-scikit-learn
-scikit-image
-opencv-python
-joblib
-lightgbm
