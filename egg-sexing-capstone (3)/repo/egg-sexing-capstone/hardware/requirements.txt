@@ -1,7 +1,0 @@
-RPi.GPIO
-firebase-admin
-joblib
-opencv-python
-numpy
-scikit-image
-scipy
