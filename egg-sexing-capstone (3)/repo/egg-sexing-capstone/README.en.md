@@ -160,14 +160,6 @@ npm install
 npm run dev
 ```
 
-## 👥 Team
-
-| Name | Student ID |
-|---|---|
-| Muhammad Naufal Firdaus | 1103220083 |
-| Zarvin Heruwin | 1103223120 |
-| Alfikri | 1103223015 |
-
 **Supervisors:** Dr. Meta Kallista, S.Si., M.Si. · Dr. Ig. Prasetya Dwi Wibawa, S.T., M.T.
 **Research Partners:** National Research and Innovation Agency (BRIN) · Hatchery of PT Super Unggas Jaya, Cirebon
 
