@@ -4,8 +4,6 @@
 
 Capstone Design — B.Eng. in Computer Engineering, School of Electrical Engineering, Telkom University (2026)
 
-[🇮🇩 Baca dalam Bahasa Indonesia](README.md)
-
 > A non-destructive, non-invasive system that predicts the sex of ISA Brown layer chicken embryos on day 0 of incubation, using candling imagery, a 13-feature morphological/physical/textural pipeline, and an RBF-kernel SVM classifier — achieving **88% accuracy**, **89.65% F1-score**, and **94.74% ROC-AUC** on held-out, hatch-verified test data.
 
 ## 🤝 Research Collaboration
