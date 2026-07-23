@@ -35,7 +35,7 @@ berjalan di alat) — tidak ada lagi ambiguitas seperti versi dokumentasi sebelu
 
 | Item | Qty | Harga Satuan (Rp) | Total (Rp) |
 |---|---|---|---|
-| Raspberry Pi 4 (4GB) + MicroSD 32GB | 1 | 1.350.000 | 1.350.000 |
+| Raspberry Pi 4 (4GB) + MicroSD 32GB | 1 | 3.200.000 | 1.350.000 |
 | Layar LCD Raspberry Pi 4.3" | 1 | 450.000 | 450.000 |
 | Kamera Raspberry Pi 5MP | 1 | 150.000 | 150.000 |
 | Breadboard Half Size | 1 | 10.000 | 10.000 |
@@ -46,4 +46,4 @@ berjalan di alat) — tidak ada lagi ambiguitas seperti versi dokumentasi sebelu
 | MOSFET Trigger Switch | 1 | 30.000 | 30.000 |
 | Power Supply 12V 5A | 1 | 120.000 | 120.000 |
 | Step-down module XY-3606 | 1 | 30.000 | 30.000 |
-| **Total** | | | **Rp 2.100.000** |
+| **Total** | | | **Rp 3.950.000** |
