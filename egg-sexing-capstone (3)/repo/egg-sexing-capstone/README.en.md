@@ -8,7 +8,7 @@ Capstone Design — B.Eng. in Computer Engineering, School of Electrical Enginee
 
 ## 🤝 Research Collaboration
 
-This project was carried out in partnership with Indonesia's **National Research and Innovation Agency (BRIN)** and the **Hatchery of PT Super Unggas Jaya (PT SUJA), Cirebon**. System requirements were derived directly from interviews with BRIN researchers/technicians and PT SUJA hatchery staff. Dataset collection (250 eggs), field testing, and ground-truth validation (hatching → DOC sexing) were all conducted on-site at the PT SUJA hatchery in Cirebon (April 5–30, 2026).
+This project was carried out in partnership with Indonesia's **National Research and Innovation Agency (BRIN)** and the **Hatchery of PT Super Unggas Jaya (PT SUJA), Cirebon**. System requirements were derived directly from interviews with BRIN researchers/technicians and PT SUJA hatchery staff. Dataset collection (250 eggs), field testing, and ground-truth validation (hatching → DOC sexing) were all conducted on-site at the PT SUJA hatchery in Cirebon (January-May, 2026).
 
 ## 📌 Background
 
